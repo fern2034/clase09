@@ -1,0 +1,14 @@
+#titulo {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+    color: #ff0000;
+    background-color: #e7ef00;
+}
+#contenido {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    color: #ff0000;
+    
+}
